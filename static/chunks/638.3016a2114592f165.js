@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[638],{3638:function(e,r,s){s.r(r);var t=s(7437);s(2265),r.default=()=>(0,t.jsx)("footer",{className:"p-5 bg-black text-white border-t border-white",children:(0,t.jsx)("div",{className:"text-center",children:"\xa9 2025 Mohammed Nafih Yuseph. All rights reserved."})})}}]);

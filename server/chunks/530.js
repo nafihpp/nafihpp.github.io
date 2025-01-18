@@ -1,0 +1,1 @@
+"use strict";exports.id=530,exports.ids=[530],exports.modules={7530:(e,r,t)=>{t.r(r),t.d(r,{default:()=>d});var s=t(326);t(7577);let d=()=>s.jsx("footer",{className:"p-5 bg-black text-white border-t border-white",children:s.jsx("div",{className:"text-center",children:"\xa9 2025 Mohammed Nafih Yuseph. All rights reserved."})})}};
